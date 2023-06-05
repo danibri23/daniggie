@@ -1,7 +1,7 @@
+<!-- div login -->
 <div class="w-full h-screen grid place-items-center">
-	<!-- div login -->
+	<!-- div contenedor  -->
 	<div class="grid w-[300px]">
-		<!-- div contenedor  -->
 		<img
 			class="w-[150px] block mb-12 justify-self-center sm:hidden"
 			src="/logos/logo_yard_sale.svg"
@@ -11,8 +11,8 @@
 		<p class="text-global-veryLigthPink text-regular font-light mt-0 mb-8 text-center">
 			Ingrese su nueva contraseña
 		</p>
+		<!-- Formulario -->
 		<form action="/" class="flex flex-col">
-			<!--  -->
 			<label class="text-compact mb-1 font-bold" for="password">Contraseña:</label>
 			<input
 				class="bg-global-textInputField border-none rounded-lg h-[30px] text-regular p-1.5 mb-3"
@@ -32,7 +32,7 @@
 				placeholder="*********"
 			/>
 			<input
-				class="bg-global-hospitalGreen rounded-lg text-white cursor-pointer text-regular font-bold h-12 border-none"
+				class="bg-global-hospitalGreen rounded-lg text-white cursor-pointer text-regular font-bold h-12 border-none mt-3 mb-7"
 				type="submit"
 				value="Confirmar"
 			/>
