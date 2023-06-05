@@ -3,7 +3,7 @@
 	<!-- div contenedor  -->
 	<div class="grid w-[300px]">
 		<img
-			class="w-[150px] block mb-12 justify-self-center sm:hidden"
+			class="w-[150px] block mb-12 justify-self-center sm:hidden mx-auto"
 			src="/logos/logo_yard_sale.svg"
 			alt="logo yard"
 		/>
@@ -14,7 +14,7 @@
 		</p>
 		<!-- contenedor imagen -->
 		<div
-			class="w-[132px] h-[132px] rounded-full bg-global-textInputField flex justify-center items-center mb-6"
+			class="w-[132px] h-[132px] rounded-full bg-global-textInputField flex justify-center items-center mb-6 mx-auto"
 		>
 			<img class="w-20" src="/icons/email.svg" alt="email" />
 		</div>

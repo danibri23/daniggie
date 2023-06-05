@@ -15,7 +15,7 @@
 		<form action="/" class="flex flex-col">
 			<label class="text-compact mb-1 font-bold" for="password">Contraseña:</label>
 			<input
-				class="bg-global-textInputField border-none rounded-lg h-[30px] text-regular p-1.5 mb-3"
+				class="bg-global-textInputField border-none rounded-lg h-12 text-regular p-1.5 mb-3"
 				type="password"
 				name="password"
 				id="password"
@@ -25,7 +25,7 @@
 				>Ingresa de vuelta su contraseña:</label
 			>
 			<input
-				class="bg-global-textInputField border-none rounded-lg h-[30px] text-regular p-1.5 mb-3"
+				class="bg-global-textInputField border-none rounded-lg h-12 text-regular p-1.5 mb-3"
 				type="password"
 				name="new-password"
 				id="new-password"
