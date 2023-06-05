@@ -1,7 +1,7 @@
-<h1 class="text-3xl font-bold underline">Hello world!</h1>
+<script>
+	import Password from '$lib/components/Password.svelte';
+</script>
 
-<style lang="postcss">
-	:global(html) {
-		background-color: theme(colors.gray.100);
-	}
-</style>
+<main class="m-0">
+	<Password />
+</main>
