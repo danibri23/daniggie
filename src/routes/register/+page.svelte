@@ -2,4 +2,6 @@
 	import Register from '$lib/components/Register.svelte';
 </script>
 
-<Register />
+<main class="m-0">
+	<Register />
+</main>
