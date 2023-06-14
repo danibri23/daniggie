@@ -31,6 +31,19 @@
 	.grid-cols-auto-140 {
 		grid-template-columns: repeat(auto-fill, 140px);
 	}
+
+	.grid-template-rows-auto {
+		grid-template-rows: auto 1fr auto;
+	}
+
+	.grid-one-orden {
+		grid-template-columns: auto 1fr;
+	}
+
+	.grid-two-pedidos {
+		grid-template-columns: auto 1fr auto auto;
+	}
+
 	.list-style {
 		list-style: none;
 	}

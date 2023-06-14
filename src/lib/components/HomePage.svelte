@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { infoCards } from '../../stores/store';
+	import { infoCards } from '../../stores/mercaderias';
 </script>
 
 <!-- cuerpo de carta -->

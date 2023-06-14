@@ -5,7 +5,7 @@
 </script>
 
 <main class="m-0">
-	<!-- <Home /> -->
+	<Home />
 	<!-- <MenuD /> -->
-	<MenuM />
+	<!-- <MenuM /> -->
 </main>
