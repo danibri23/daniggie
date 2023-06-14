@@ -22,4 +22,18 @@
 	}
 }
 
+/* Clases de utilidad personalizadas */
+@layer utilities {
+	.grid-cols-auto-240 {
+		grid-template-columns: repeat(auto-fill, 240px);
+	}
+
+	.grid-cols-auto-140 {
+		grid-template-columns: repeat(auto-fill, 140px);
+	}
+	.list-style {
+		list-style: none;
+	}
+}
+
 /* aca es donde va todas las direcciones de letras de que vamos a usar */
