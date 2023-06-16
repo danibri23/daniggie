@@ -21,11 +21,13 @@
 			Con su práctica posición, esta bicicleta también cumple una función decorativa, añade tu
 			recibidor o espacio de trabajo
 		</p>
-		<button
-			class="bg-global-hospitalGreen rounded-lg text-white cursor-pointer text-regular font-bold h-12 border-none w-full flex items-center justify-center"
-		>
-			<img src="./icons/bt_add_to_cart.svg" alt="add to cart" />
-			Añadir al carrito
-		</button>
+		<a href="/orders">
+			<button
+				class="bg-global-hospitalGreen rounded-lg text-white cursor-pointer text-regular font-bold h-12 border-none w-full flex items-center justify-center"
+			>
+				<img src="./icons/bt_add_to_cart.svg" alt="add to cart" />
+				Añadir al carrito
+			</button>
+		</a>
 	</div>
 </aside>

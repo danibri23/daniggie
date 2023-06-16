@@ -32,12 +32,15 @@
 			/>
 		</form>
 
-		<a class="text-global-hospitalGreen text-compact text-center text-decoration-none" href="/"
-			>¿Olvidaste tu contraseña?</a
+		<a
+			class="text-global-hospitalGreen text-compact text-center text-decoration-none"
+			href="/password">¿Olvidaste tu contraseña?</a
 		>
-		<button
-			class="bg-white rounded-lg text-global-hospitalGreen cursor-pointer text-regular font-bold h-12 mb-4 border border-global-hospitalGreen absolute w-[300px] bottom-0 lg:static lg:mb-7 lg:mt-4"
-			>Crear Cuenta</button
+		<a href="/register">
+			<button
+				class="bg-white rounded-lg text-global-hospitalGreen cursor-pointer text-regular font-bold h-12 mb-4 border border-global-hospitalGreen absolute w-[300px] bottom-0 lg:static lg:mb-7 lg:mt-4"
+				>Crear Cuenta</button
+			></a
 		>
 	</div>
 </div>

@@ -16,19 +16,10 @@
 			<p class="pl-4 text-regular mt-2 mb-8 text-global-veryLigthPink">danielbrizuela@gmail.com</p>
 			<label class="text-compact mb-1 font-bold" for="password">Contraseña:</label>
 			<p class="pl-4 text-regular mt-2 mb-8 text-global-veryLigthPink">*********</p>
-
-			<a href="account/edit-account">
-				<button
-					class="bg-white rounded-lg text-global-hospitalGreen cursor-pointer text-regular font-bold h-12 mb-4 border border-global-hospitalGreen absolute w-[300px] bottom-0 lg:static lg:mb-1 lg:mt-4"
-					>Editar</button
-				></a
+			<button
+				class="bg-global-hospitalGreen rounded-lg text-white cursor-pointer text-regular font-bold h-12 mb-4 border border-global-hospitalGreen absolute w-[300px] bottom-0 lg:static lg:mb-7 lg:mt-4s"
+				>Guardar</button
 			>
 		</div>
 	</div>
-	<a href="/login">
-		<button
-			class="bg-global-hospitalGreen rounded-lg text-white cursor-pointer text-regular font-bold h-12 mb-4 border border-global-hospitalGreen absolute w-[300px] bottom-0 lg:static lg:mb-1 lg:mt-4"
-			>Salir</button
-		></a
-	>
 </div>

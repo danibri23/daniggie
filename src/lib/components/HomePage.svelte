@@ -23,7 +23,9 @@
 						</p>
 					</div>
 					<figure class="m-0">
-						<img class="w-9 h-9" src="/icons/bt_add_to_cart.svg" alt="icono" />
+						<a href="/detail">
+							<img class="w-9 h-9" src="/icons/bt_add_to_cart.svg" alt="icono" />
+						</a>
 					</figure>
 				</div>
 			</div>

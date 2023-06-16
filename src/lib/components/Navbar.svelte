@@ -3,9 +3,10 @@
 	<img src="./icons/icon_menu.svg" alt="menu" class="sm:hidden" />
 
 	<!-- contenedor navbar izquierda -->
-	<div class="flex">
-		<img src="./logos/logo_yard_sale.svg" alt="logo" class="w-[100px]" />
-
+	<div class="flex justify-center items-center">
+		<a href="/">
+			<img src="./logos/logo_yard_sale.svg" alt="logo" class="w-[100px]" />
+		</a>
 		<ul class="list-style p-0 m-0 flex items-center h-[60px] ml-3 max-[767px]:hidden">
 			<li>
 				<a
@@ -50,16 +51,18 @@
 	<div>
 		<ul class="list-style p-0 m-0 flex items-center h-[60px]">
 			<li class="text-global-veryLigthPink text-compact mr-3 max-[767px]:hidden flex">
-				<span>danielbrizuela@gmail.com</span>
+				<a href="/account"> danielbrizuela@gmail.com</a>
 				<img class="ml-[10px] rotate-90" src="./icons/flechita.svg" alt="" />
 			</li>
 			<li class="relative">
-				<img src="./icons/icon_shopping_cart.svg" alt="shopping cart" />
-				<div
-					class="w-4 h-4 bg-global-hospitalGreen rounded-full text-compact font-bold absolute flex justify-center items-center top-[-6px] right-[-3px]"
-				>
-					2
-				</div>
+				<a href="/order">
+					<img src="./icons/icon_shopping_cart.svg" alt="shopping cart" />
+					<div
+						class="w-4 h-4 bg-global-hospitalGreen rounded-full text-compact font-bold absolute flex justify-center items-center top-[-6px] right-[-3px]"
+					>
+						2
+					</div>
+				</a>
 			</li>
 		</ul>
 	</div>
