@@ -50,6 +50,10 @@
 	.list-style {
 		list-style: none;
 	}
+
+	.z-index-prueba {
+		z-index: 2;
+	}
 }
 
 /* aca es donde va todas las direcciones de letras de que vamos a usar */
